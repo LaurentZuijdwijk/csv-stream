@@ -5,16 +5,19 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Belema/request-etag.git"
+    "url": "https://github.com/LaurentZuijdwijk/csv-stream"
   },
-
   "scripts": {
     "test": "node test.js",
     "lint": "eslint index.js"
   },
-
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "csv",
+    "stream",
+    "parser"
+  ],
+  "author": "Laurent Zuijdwijk",
+  "license": "MIT",
   "devDependencies": {
     "eslint": "^5.4.0",
     "eslint-config-airbnb-base": "^13.1.0",
