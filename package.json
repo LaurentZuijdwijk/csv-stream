@@ -1,0 +1,24 @@
+{
+  "name": "csv-stream",
+  "version": "0.1.0",
+  "description": "Fast streaming CSV parser",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Belema/request-etag.git"
+  },
+
+  "scripts": {
+    "test": "node test.js",
+    "lint": "eslint index.js"
+  },
+
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "tape": "^4.9.1"
+  }
+}
